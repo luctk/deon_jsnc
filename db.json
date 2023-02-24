@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "iPhone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png"
+    },
+    {
+      "id": 2,
+      "productName": "xiaoMi",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "samsung",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg"
+    }
+  ]
+}
